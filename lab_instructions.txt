@@ -5,4 +5,4 @@ For this hw you’ll be planning and implementing a semantic structuring strateg
 1.	Determine a structuring strategy.
              a.	Applies to: structure.htm
              d. review slide #7 of the lecture slides.Create a diagram of how the tags would look like in the HW website.Take a screenshot of the diagram and add it to the images folder.
-             d. review slide #10 of the lecture slides. Use the website provided or other alternative options to produce a document outline. Take a screenshot of the outline and add it to the images folder.
+             
